@@ -3,7 +3,8 @@ import Grid from 'material-ui/Grid';
 import Paper from 'material-ui/Paper';
 import "./AssignmentDetails.css";
 import BasicInformation from "./BasicInformation.js";
-import StudentsCompleted from "./StudentsCompleted.js";
+import CompletionRate from "./CompletionRate.js";
+//import StudentsCompleted from "./StudentsCompleted.js";
 
 class AssignmentDetailsPanel extends Component {
 
@@ -22,9 +23,9 @@ class AssignmentDetailsPanel extends Component {
           <BasicInformation
               selectedAssignmentData = {this.props.selectedAssignmentData}/> </Paper>
           </Grid>
-            <Grid item xs = {10}>
-              <StudentsCompleted
-                selectedAssignmentData = {this.props.selectedAssignmentData}/>
+            <Grid item xs = {10}> <Paper>
+              <CompletionRate
+                selectedAssignmentData = {this.props.selectedAssignmentData}/> </Paper>
             </Grid>
 
         </Grid>
