@@ -1,0 +1,22 @@
+.scrollable-list-container {
+  height: 90vh;
+  width: 30vw;
+  padding-top: 7vh;
+  float:left;
+}
+
+.assignment-details-panel-container{
+	float:right;
+	padding-top: 7vh;
+	padding-right: 1vw;
+	width:69vw;
+	height:93vh;
+}
+
+.basic-information {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	padding-top:5vh;
+
+}
