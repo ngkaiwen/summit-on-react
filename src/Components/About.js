@@ -6,7 +6,7 @@ const about = (props) => {
               <div className='about-box'>
                 <h2>ABOUT US</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod metus sit amet arcu euismod cursus nec at arcu. Nunc finibus leo nunc, in tempus est molestie at. Nulla aliquet lectus vel arcu pellentesque luctus. Phasellus sem nibh, rhoncus eu neque vel, gravida accumsan massa. Mauris nec maximus lorem, gravida venenatis metus. In vitae justo condimentum, aliquet mauris ultrices, hendrerit ligula. Fusce convallis, ex vitae faucibus laoreet, tellus ante blandit urna, eget pharetra elit mauris a nisi.
+                  Test Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod metus sit amet arcu euismod cursus nec at arcu. Nunc finibus leo nunc, in tempus est molestie at. Nulla aliquet lectus vel arcu pellentesque luctus. Phasellus sem nibh, rhoncus eu neque vel, gravida accumsan massa. Mauris nec maximus lorem, gravida venenatis metus. In vitae justo condimentum, aliquet mauris ultrices, hendrerit ligula. Fusce convallis, ex vitae faucibus laoreet, tellus ante blandit urna, eget pharetra elit mauris a nisi.
                 </p>
               </div>
             </div>
